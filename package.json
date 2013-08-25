@@ -1,0 +1,20 @@
+{
+  "name": "shellLines",
+  "description": "multi-line shell script for grunt-init.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fujisawa Shin",
+  "license": "BSD",
+  "dependencies": {
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "chai": "~1.6.1",
+    "mocha": "~1.11.0",
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.5.1"
+  }
+}
