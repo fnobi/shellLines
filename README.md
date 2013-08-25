@@ -8,7 +8,7 @@ multi-line shell script for grunt-init.
 ### from npm
 
 ```
-npm install shellLines
+npm install shell_lines
 ```
 
 ### from github
@@ -20,7 +20,7 @@ git clone git://github.com/fnobi/shellLines.git
 ## usage
 
 ```
-var shellLines = require('shellLines');
+var shellLines = require('shell_lines');
 
 // npm install & bower install
 shellLines([{
